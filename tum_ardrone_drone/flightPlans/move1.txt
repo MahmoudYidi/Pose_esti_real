@@ -1,0 +1,23 @@
+autoTakeover 500 800
+setReference $POSE$
+setMaxControl 0.1
+setInitialReachDist 0.2
+setStayWithinDist 0.3
+setStayTime 0.2
+lockScaleFP
+
+
+
+goto -0.13 0.5 0 0
+goto -0.54 0.89 0 0
+goto -1.02 1 0 0
+goto -1.54 0.86 0 0
+goto -1.86 0.52 0 0
+goto -2 0 0 0
+goto -1.89 -0.45 0 0
+goto -1.54 -0.87 0 0
+goto -1 -1 0 0
+goto -0.42 -0.82 0 0
+goto -0.07 -0.37 0 0
+goto 0 0 0 0
+
